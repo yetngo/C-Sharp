@@ -1,0 +1,8 @@
+D:\nhan\C#\MyBookLibrary\MyBookLibrary\bin\Debug\netstandard2.0\MyBookLibrary.deps.json
+D:\nhan\C#\MyBookLibrary\MyBookLibrary\bin\Debug\netstandard2.0\MyBookLibrary.dll
+D:\nhan\C#\MyBookLibrary\MyBookLibrary\bin\Debug\netstandard2.0\MyBookLibrary.pdb
+D:\nhan\C#\MyBookLibrary\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.AssemblyInfoInputs.cache
+D:\nhan\C#\MyBookLibrary\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.AssemblyInfo.cs
+D:\nhan\C#\MyBookLibrary\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.csproj.CoreCompileInputs.cache
+D:\nhan\C#\MyBookLibrary\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.dll
+D:\nhan\C#\MyBookLibrary\MyBookLibrary\obj\Debug\netstandard2.0\MyBookLibrary.pdb
