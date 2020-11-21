@@ -1,0 +1,12 @@
+D:\nhan\C#\PractialExam\PractialExam\bin\Debug\PractialExam.exe.config
+D:\nhan\C#\PractialExam\PractialExam\bin\Debug\PractialExam.exe
+D:\nhan\C#\PractialExam\PractialExam\bin\Debug\PractialExam.pdb
+D:\nhan\C#\PractialExam\PractialExam\obj\Debug\PractialExam.csprojAssemblyReference.cache
+D:\nhan\C#\PractialExam\PractialExam\obj\Debug\PractialExam.Form1.resources
+D:\nhan\C#\PractialExam\PractialExam\obj\Debug\PractialExam.CapNhatBangDia.resources
+D:\nhan\C#\PractialExam\PractialExam\obj\Debug\PractialExam.TimBangDia.resources
+D:\nhan\C#\PractialExam\PractialExam\obj\Debug\PractialExam.Properties.Resources.resources
+D:\nhan\C#\PractialExam\PractialExam\obj\Debug\PractialExam.csproj.GenerateResource.cache
+D:\nhan\C#\PractialExam\PractialExam\obj\Debug\PractialExam.csproj.CoreCompileInputs.cache
+D:\nhan\C#\PractialExam\PractialExam\obj\Debug\PractialExam.exe
+D:\nhan\C#\PractialExam\PractialExam\obj\Debug\PractialExam.pdb
