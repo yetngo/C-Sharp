@@ -1,0 +1,397 @@
+E:\C#\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+E:\C#\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+E:\C#\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+E:\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+E:\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+E:\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+E:\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+E:\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+E:\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+E:\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+E:\C#\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\PC\Downloads\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+D:\Personal\FPT\SE\CN5\C#\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\Admin\Downloads\LibraryProject\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\luuph\Downloads\LibraryProjectNhan\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+D:\CN5\PRN292\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\Admin\Downloads\New folder\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+D:\CN5\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\Hung Nguyen\Desktop\LibraryProjectUyen\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\RdlCompile.cache
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\RdlCompile.compiled
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\EnvDTE.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\stdole.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.MSXML.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rLog.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CopyComplete
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rBook.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rStudent.resources
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\EnvDTE.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\stdole.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rBook.resources
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rLog.resources
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rStudent.resources
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CopyComplete
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\Hoang My\Downloads\LibraryProjectUyen2\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\EnvDTE.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\stdole.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\Microsoft.MSXML.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rBook.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rLog.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rStudent.resources
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\RdlCompile.cache
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\RdlCompile.compiled
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CopyComplete
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\luuph\Downloads\LibraryProjectUyen3\LibraryProjectUyen\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe.config
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\LibraryProject.exe
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\LibraryProject.pdb
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\EnvDTE.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\stdole.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\Microsoft.MSXML.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csprojAssemblyReference.cache
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form1.resources
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Form2.resources
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.Properties.Resources.resources
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rBook.resources
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rLog.resources
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.rStudent.resources
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.GenerateResource.cache
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\RdlCompile.cache
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\RdlCompile.compiled
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.csproj.CopyComplete
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.exe
+C:\Users\luuph\Downloads\LibraryProjectSE1402\LibraryProjectSE1402\LibraryProject\LibraryProject\obj\Debug\LibraryProject.pdb
